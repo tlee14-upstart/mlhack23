@@ -1,0 +1,5 @@
+# training data
+https://s3.console.aws.amazon.com/s3/object/ml-home-us-east-1?region=us-east-1&prefix=jonmichel/hackweek_austin_nov_2023/train_data.csv
+
+# applicant data
+https://s3.console.aws.amazon.com/s3/object/ml-home-us-east-1?region=us-east-1&prefix=jonmichel/hackweek_austin_nov_2023/train_data.csv
